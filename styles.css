@@ -1,0 +1,49 @@
+P{
+    color: brown;
+    background-color:yellowgreen ;
+    font-size: xx-large;
+    font-weight: 2000;
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+fieldset{
+    width: auto;
+    height: auto;
+    text-align: center;
+    border: 5px solid blue;
+}
+label{
+    color: red;
+    text-align: center;
+}
+input{
+    width: auto;
+   height: auto;
+   text-align: center;
+   border: 5px solid blue;
+   border-radius: 5px;
+   padding: 5px;    
+   font-size: larger;
+
+}
+input[type="submit"]{
+    width: auto;
+    height: auto;
+
+    text-align: center;
+    border: 5px solid blue;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: larger;
+    font-weight: bold;
+    color: white;
+    background-color: blue;
+    cursor: pointer;
+
+}
+input[type="date"]{
+    background-color: darkgreen;
+    color: cadetblue;
+}
